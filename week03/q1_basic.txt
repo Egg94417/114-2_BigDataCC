@@ -7,7 +7,7 @@ student114@linux-server1:~$ ls
 README.txt  exercises  myfile.txt  projects
 documents   file.txt   practice    scripts
 
-##ls- la
+##ls -la
 student114@linux-server1:~$ ls -la
 total 56
 drwxr-x---. 8 student114 student114 16384 Mar 10 07:27 .
