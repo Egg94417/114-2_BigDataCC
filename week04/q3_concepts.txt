@@ -11,4 +11,4 @@ A2：> ：覆蓋檔案內容（原本內容會被清空）
 Q3：請寫出一行指令，找出 /etc/passwd 中有多少個使用者的 shell 是 /bin/bash。
     提示：可以結合 grep 和 wc 指令。
 A3：grep "/bin/bash"：找出使用 bash 的使用者
-    wc -l：計算行數（人數）
+    wc -l：計算行數（人數） 

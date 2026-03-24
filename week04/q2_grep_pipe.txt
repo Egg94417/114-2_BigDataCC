@@ -82,7 +82,7 @@ student230:x:1061:1061::/home/student230:/bin/bash
 列出 /etc 目錄下的檔案數量：
 ls /etc | wc -l
 
-（貼上結果）
+（貼上結果） 
 101
 
 
